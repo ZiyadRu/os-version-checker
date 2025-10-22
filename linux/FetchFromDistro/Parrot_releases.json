@@ -1,0 +1,20 @@
+{
+  "source": "http://127.0.0.1:8000/api/distribution/Parrot",
+  "series": {
+    "6": {
+      "version": "6.4",
+      "text": "Distribution Release: Parrot 6.4",
+      "url": "https://distrowatch.com/12496"
+    },
+    "5": {
+      "version": "5.2",
+      "text": "Distribution Release: Parrot 5.2",
+      "url": "https://distrowatch.com/11759"
+    },
+    "4": {
+      "version": "4.11",
+      "text": "Distribution Release: Parrot 4.11",
+      "url": "https://distrowatch.com/11198"
+    }
+  }
+}

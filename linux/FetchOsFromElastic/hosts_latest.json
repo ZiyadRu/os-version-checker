@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c205f951-de97-48cc-8863-66b76985022b",
+    "timestamp": "2025-10-20T07:56:37.938Z",
+    "host_name": "win-osquery",
+    "os_name": "Windows 11 Pro",
+    "os_version": "10.0"
+  },
+  {
+    "id": "8791d412f28d46dfb46d6e50945699c2",
+    "timestamp": "2025-10-19T13:52:08.225Z",
+    "host_name": "osquery-virtual-machine",
+    "os_name": "Ubuntu",
+    "os_version": "24.04.3 LTS (Noble Numbat)"
+  },
+  {
+    "id": "00fd10ed-23fd-41dc-b73e-ec6363f95907",
+    "timestamp": "2025-10-09T07:48:51.216Z",
+    "host_name": "desktop-7itgjef",
+    "os_name": "Windows 10 Home",
+    "os_version": "10.0"
+  }
+]

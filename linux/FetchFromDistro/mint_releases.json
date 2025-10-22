@@ -1,0 +1,25 @@
+{
+  "source": "http://127.0.0.1:8000/api/distribution/mint",
+  "series": {
+    "7": {
+      "version": "7",
+      "text": "Distribution Release: Linux Mint 7 \"LMDE\"",
+      "url": "https://distrowatch.com/12600"
+    },
+    "22": {
+      "version": "22.2",
+      "text": "Distribution Release: Linux Mint 22.2",
+      "url": "https://distrowatch.com/12542"
+    },
+    "21": {
+      "version": "21.3",
+      "text": "Distribution Release: Linux Mint 21.3",
+      "url": "https://distrowatch.com/12033"
+    },
+    "6": {
+      "version": "6",
+      "text": "Distribution Release: Linux Mint 6 \"LMDE\"",
+      "url": "https://distrowatch.com/11944"
+    }
+  }
+}

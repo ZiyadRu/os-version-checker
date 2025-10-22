@@ -1,0 +1,20 @@
+{
+  "source": "http://127.0.0.1:8000/api/distribution/ubuntu",
+  "series": {
+    "25": {
+      "version": "25.10",
+      "text": "Distribution Release: Ubuntu 25.10",
+      "url": "https://distrowatch.com/12585"
+    },
+    "24": {
+      "version": "24.04.3",
+      "text": "Distribution Release: Ubuntu 24.04.3",
+      "url": "https://distrowatch.com/12518"
+    },
+    "22": {
+      "version": "22.04.5",
+      "text": "Distribution Release: Ubuntu 22.04.5",
+      "url": "https://distrowatch.com/12234"
+    }
+  }
+}
