@@ -1,6 +1,6 @@
 # Windows 11 LCU Compliance (Elastic + Osquery)
 
-Detect—per machine—whether it’s on the **latest Windows 11 cumulative update (LCU)**.
+Detect—per machine—whether it’s on the **latest Windows 11 cumulative update (LCU) + Out of Bounds (OOB) updates**.
 
 ---
 
