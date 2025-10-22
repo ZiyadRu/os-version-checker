@@ -138,7 +138,6 @@ def ship_dir_to_elastic(
 
         doc.setdefault("ingested_at", ingested_at)
         doc.setdefault("source_file", fname)
-        # in shipper.py, after loading doc (and before adding to bulk):
         doc.setdefault("@timestamp", doc.get("checked_at") or doc.get("ingested_at"))
 
         _id = None
